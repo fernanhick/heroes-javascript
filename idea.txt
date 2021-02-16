@@ -1,0 +1,7 @@
+Heroes creation
+
+- Pool with the abilities
+	split abilities based on their action and define by the amount of turns for CD
+	greater the skill, the longer the CD
+	poweroff
+
